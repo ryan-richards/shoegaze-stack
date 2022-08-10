@@ -1,5 +1,5 @@
-# Remix Blog Starter Kit
+# Remix Shoegaze Stack
 
-Chakra UI + Supabase
+Chakra UI + Supabase + Notion Integration
 
 Deploy to Vercel
